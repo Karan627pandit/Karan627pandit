@@ -9,6 +9,6 @@
 
 ## 📄 Resume
 
-<a href="./RESUME.pdf" target="_blank">
+<a href="RESUME.pdf" target="_blank">
   <img src="https://drive.google.com/file/d/1OkxgoMeyD2hlirk533wHnhBrphXOiNaN/view?usp=drive_link" alt="resume">
 </a>
