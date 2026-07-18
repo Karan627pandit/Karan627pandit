@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"> Hi👋🏻, I'm Karan Pandit</h1>
+<h3 align="center">🚀 Data Analyst | Computer Science Engineer </h3>
 
-<!--
-**Karan627pandit/Karan627pandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 🔭 Exploring the world with curiosity </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+🔭 I’m currently working on full-stack web development projects and DSA<br>👯 I’m looking to collaborate in Web-Dev projects<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning AI and Data Structure and Algorithm<br>💬 Regular DSA practitioner 🧠<br>⚡ Loves to sketch and draw
+
+## 📄 Resume
+
+<a href="./RESUME.pdf" target="_blank">
+  <img src="https://drive.google.com/file/d/1OkxgoMeyD2hlirk533wHnhBrphXOiNaN/view?usp=drive_link" alt="resume">
+</a>
