@@ -1,11 +1,20 @@
 <h1 align="center"> Hi👋🏻, I'm Karan Pandit</h1>
-<h3 align="center">🚀 Data Analyst | Computer Science Engineer </h3>
+<h3 align="center">
+📊 Data Analyst | 🤖 Aspiring Data Scientist | 💻 Computer Science Engineer
+</h3>
 
 
 <p align="center"> 🔭 Exploring the world with curiosity </p>
 
 # 💫 About Me:
-🔭 I’m currently working on full-stack web development projects and DSA<br>👯 I’m looking to collaborate in Web-Dev projects<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning AI and Data Structure and Algorithm<br>💬 Regular DSA practitioner 🧠<br>⚡ Loves to sketch and draw
+🎓 B.Tech Computer Science Engineering Student
+- 📊 Passionate about Data Analytics & Data Science
+- 🐍 Strong foundation in Python, SQL & Data Visualization
+- 📈 Exploring Machine Learning and Predictive Analytics
+- 📚 Currently improving DSA and Problem Solving
+- 🔍 Interested in Business Intelligence & AI
+- 🌱 Learning Advanced Power BI, Pandas, NumPy & Scikit-Learn
+- 🎯 Goal: Become a Data Scientist
 
 ## 📄 Resume
 
